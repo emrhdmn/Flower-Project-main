@@ -1,7 +1,7 @@
 # Modern Flower HTML-CSS RESPONSIVE Project
 
 ## What i practice
-Bu web sitesi HTML ve CSS kullanılarak geliştirilmiştir ve görsel çekiciliğe önem vermektedir. Ayrıca, müşteri siparişlerini yönetmek için backend teknolojileri ve veritabanı da içerebilir.
+This website was developed using HTML and CSS and attaches importance to visual appeal. It may also include backend technologies and database for managing customer orders.
 
 
 ### `Deploy`
@@ -12,4 +12,4 @@ https://emrhdmn.github.io/Flower-Project-main/
 
 ![](/screen.png)
 
-<h4>"Çiçek Bahçesi," güzel bitkileri ve çiçekleri sevenler için bir kaynak ve alışveriş platformu olarak tasarlanmıştır. Çiçek alışverişi yapmak veya bitki bakımı hakkında bilgi edinmek isteyen herkes bu platformu kullanabilir.</h4>
+<h4>Flower garden is designed as a resource and shopping platform for lovers of beautiful plants and flowers. Anyone who wants to shop for flowers or learn about plant care can use this platform.</h4>
